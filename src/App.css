@@ -112,7 +112,7 @@
 @media screen and (max-width: 991px) {
   * {
     font-family: "Roboto", sans-serif;
-    font-size: 18px;
+    font-size: 30px;
     margin: 0;
     padding: 0;
     overflow-y: hidden;
@@ -159,7 +159,7 @@
     border: 0px;
     color: #ffffff;
     text-align: right;
-    font-size: 25px;
+    font-size: 45px;
     font-weight: 500;
     letter-spacing: 1px;
     padding: 10px 0;
